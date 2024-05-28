@@ -2,9 +2,9 @@ import { useRef, useState } from "react";
 import { useNavigate, Link } from "react-router-dom";
 import axiosClient from "../axios-client";
 import { useStateContext } from "../contexts/ContextProvider";
-import Signupimg from "../assets/signup2.jpg";
+import Signupimg from "../assets/Signup2.jpg";
 import toast, { Toaster } from "react-hot-toast";
-
+// assets/Signup2.jpg
 function SignUp() {
   const nameRef = useRef();
   const emailRef = useRef();

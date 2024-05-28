@@ -1,6 +1,6 @@
 import Navbar from "../components/Navbar";
 import Login from "../components/Login";
-import Loginimg from "../assets/login.jpg";
+import Loginimg from "../assets/Login.jpg";
 import Hero from "../components/Hero";
 
 
